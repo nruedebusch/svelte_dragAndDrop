@@ -55,9 +55,9 @@
 					<h4>{item.title}</h4>
 				</header>
 				<section class="p-4">{item.description}</section>
-				<footer class="card-footer inline-block">
+				<footer class="card-footer inline-block space-x-2">
 					{#each item.tags as tag}
-						<span class="chip variant-filled-secondary mr-2">{tag}</span>{/each}
+						<span class="chip variant-filled-secondary">{tag}</span>{/each}
 				</footer>
 			</div>
 		{/each}
