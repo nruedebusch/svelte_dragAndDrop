@@ -20,7 +20,7 @@
 		},
 		{
 			id: 2,
-			title: 'Compose Music for Boss Battle',
+			title: 'Compose Music for Boss Battles',
 			description: 'Compose epic music for the final boss battle',
 			tags: ['Music', 'Boss Battle']
 		},
