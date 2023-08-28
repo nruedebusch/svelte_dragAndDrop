@@ -1,3 +1,5 @@
+<--! Script -->
+
 <script lang="ts">
 	import { flip } from 'svelte/animate';
 	import { dndzone } from 'svelte-dnd-action';
